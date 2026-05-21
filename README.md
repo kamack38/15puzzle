@@ -45,4 +45,11 @@ feh --auto-reload -ZFY out.ppm
 
 ## Preview
 
-[![Watch the video demo](media/preview.png)](media/preview.mp4)
+<div align="center">
+  <video
+    width="80%"
+    src="https://github.com/user-attachments/assets/8814542d-8633-481b-862a-e7a40c4259e7"
+    poster="https://github.com/user-attachments/assets/d553cb9e-254c-4dde-b1ff-4ff098954582"
+  >
+  </video>
+</div>
