@@ -1,0 +1,4 @@
+bin/
+*.out
+out.ppm
+img
