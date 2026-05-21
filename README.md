@@ -29,7 +29,7 @@ OPTIONS:
 To play the game simply pass the input file you want to play on (the supported types are pmm ascii
 and ppm binary). You can also try one of the test files.
 
-```
+```bash
 ./img -itests/15-puzzle.binary.ppm
 ```
 
