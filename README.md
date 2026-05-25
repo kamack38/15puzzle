@@ -37,7 +37,7 @@ Press <kbd>W</kbd>, <kbd>A</kbd>, <kbd>S</kbd>, <kbd>D</kbd> to move the empty t
 instantaneous meaning you don't have to press space (at least on unix-like systems). Try to move the
 randomised tiles so that they create the input image.
 
-You need to use a previewr that support auto reload. Here's an example command using `feh`.
+You need to use a previewer that supports auto reload. Here's an example command using `feh`.
 
 ```bash
 feh --auto-reload -ZFY out.ppm
